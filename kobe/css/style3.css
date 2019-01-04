@@ -1,0 +1,63 @@
+   .introduce img,.goal img,.top img{
+   	display:none;
+   	}
+   .photo1{
+   	display: none;
+   }
+   .imgchange{
+			width: 140px;
+			height: auto;
+			border: 1px solid white;
+			position: absolute;
+			top: 380px;
+			left: -170px;
+            transform: rotate(2deg);
+		    }
+  .text3 h2{
+  	font-size: 12px;
+  }
+  .text3 h2{
+  	display: none;
+  }
+    .wrap{
+    	width: 1300px;
+        height: 768px;
+    	margin: 5px auto;
+    	position:relative;
+    	border: 1px solid red;
+    	color: black;
+    	font-size:14px;
+    	font-family: "楷体";
+    	background: url(../img/47.gif) no-repeat;
+    }
+
+   .style3_text{
+   	 width: 430px;
+     height:auto;
+     position: absolute;
+     left: 180px;
+     top:10px;
+     transform: rotate(-2.8deg);	
+   }
+    span .big{
+    	font-size: 20px;
+    	color: red;
+    }
+     .floa1{
+     	width: 120px;
+     	height: 166px;
+     	background: url(../img/36.jpg) no-repeat;
+     	border: 4px solid white;
+     	position: absolute;
+     	right: 470px;
+     	top:35px;
+     	transform: rotate(12deg);
+     }
+   .floa2{
+   	width: 107px;
+   	height: 79px;
+   	position: absolute;
+   	background: url(../img/43_1.jpg) no-repeat;
+   	right: 20px;
+   	bottom: 20px;
+   }

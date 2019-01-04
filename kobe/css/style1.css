@@ -1,0 +1,144 @@
+body{
+	background: black;
+}
+.wrap{
+			width: 1180px;
+			border: 1px solid red;
+			margin: 5px auto;
+			color: red;
+			position: relative;
+			background:url(../img/11.jpg) no-repeat;
+			background-position-x: 160px;
+		}
+		 .imgchange{
+			width: 140px;
+			height: auto;
+			border: 1px solid white;
+			position: absolute;
+			top: 100px;
+			left: 20px;
+		    }
+	.logo{
+		width: 388px;
+		height: 100px;
+		background: url(../img/22.gif) no-repeat;
+	}
+	.introduce{
+		width: 450px;
+        border: 1px solid red;
+	    margin-left: 200px;
+	    margin-top: 20px;
+		
+	}
+	.introduce .ph1{
+		float: left;
+		text-align: center;
+		font: 17px "楷体";
+		color:#FF6600;
+	}
+    .introduce h5{
+       font-size: 29px;
+       line-height: 10px;
+       font-family: "ocr a extended";	
+    	
+    }
+     .introduce .ph1 img{
+     	width:120px;
+     	height: 130px;
+     	margin;
+     	float: left;
+     	margin-left: 20px;
+     }
+	.introduce .head1 {
+		padding-left: 30px;
+		font: 29px "agency fb";
+	}
+	.introduce .text1{
+		text-indent:1.5em;
+		color: white;
+	}
+  .goal{
+  	width: 850px;
+  	height: auto;
+    margin-left:2px;
+    margin-top: 10px;
+  }
+  .goal .left{
+  	width: 250px;
+  	float: left;
+  }
+  .goal .left img{
+  	width: 200px;
+  	height: 300px;
+  	margin-left: 20px;
+  	margin-top: 10px;
+  }
+   .goal .right{
+   	width: 600px;
+   	float: left;
+   }
+   .goal .right h3{
+   	font-size: 30px;
+   	font-family: castellar;
+   }
+  .goal .right
+  {
+  	font-size:18px;
+  	color: white;
+  } 
+   .goal .right h3{
+   	font-size: 30px;
+    font-family:"楷体"; 
+   	color: red;
+   }
+
+  .top{
+  	width: 1180px;
+  	border: 1px solid #008000;
+  	clear: both; 
+  	margin-top: 20px;
+  }
+   .top .photo3 img{
+   	float: left;
+   	width: 360px;
+   	height: 360px;
+   	margin:8px 0px 8px 10px;
+   	border: 2px solid #BBBBBB;
+   }
+   .top .text3{
+ 	width: 400px;
+ 	float: left;
+ 	color: blue;
+ 	padding-left: 20px;
+ 	line-height: 30px;
+ 	
+ }
+ .top .text3 .text3_two{
+ 	text-align: center;
+ 	font-size:34px;
+ 	color: red;
+ 	line-height: 20px;
+ 	font-family: "franklin gothic book";
+ 	}
+ 	
+ .top h2{
+ 	color: red;
+ } 
+  .retail{
+  	width: 1180px;
+  	clear: both;
+  	height: 730px;
+  	border: 1px solid red;
+  	margin-top: 40px;
+  	background:url(../img/25.gif) no-repeat;
+  	
+  }
+.retail .text4{
+	width: 500px;
+	border: 1px solid #555555;
+	margin:100px 0px 0px 30px;
+	font-size: 30px;
+	font-family: "楷体";
+	line-height: 34px;
+	text-indent: 1.8em;
+}
